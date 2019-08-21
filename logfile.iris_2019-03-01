@@ -1,0 +1,10 @@
+21.796036,1.639856,1.081260,494147.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=BFZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+19.981535,1.279347,0.768995,431744.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=BKZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+1.118713,1.118620,0.758588,0.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=CTZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+20.068862,1.037461,0.529124,483680.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=HIZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+18.996074,1.245375,0.704232,543912.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=KHZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+19.201855,1.216972,0.759148,466829.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=ODZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+23.744112,1.278849,0.770472,443946.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=OUZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+21.153384,1.536149,1.027228,477000.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=QRZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+30.457643,1.328453,0.769273,456810.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=RPZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
+27.425584,1.274153,0.765885,490642.000,https://service.iris.edu/fdsnws/dataselect/1/query?network=NZ&station=URZ&location=10&channel=HHZ&starttime=2019-03-01T00:00:00.000&endtime=2019-03-02T00:00:00.000
